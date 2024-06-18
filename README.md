@@ -87,8 +87,4 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuz1n&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Yuz1n" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yuz1n&show_icons=true&locale=en&theme=tokyonight" alt="Yuz1n" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuz1n&&theme=tokyonight" alt="Yuz1n" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuz1n&show_icons=true&theme=dracula)
